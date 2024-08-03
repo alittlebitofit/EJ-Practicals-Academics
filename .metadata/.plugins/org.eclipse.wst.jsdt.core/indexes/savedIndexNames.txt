@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+D:\ME\Programming\Practicals - Academics\5-EJPracticals-Academics\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2076155299.index
+2549740315.index
+170421443.index
+2780587487.index
